@@ -1,0 +1,10 @@
+C:\Users\nicol\OneDrive\Desktop\Virginio Gomez\Sistema Cafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\nicol\OneDrive\Desktop\Virginio Gomez\Sistema Cafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\nicol\OneDrive\Desktop\Virginio Gomez\Sistema Cafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\nicol\OneDrive\Desktop\Virginio Gomez\Sistema Cafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Virginio Gomez\Sistema Cafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.MenuCafeteria.resources
+C:\Users\nicol\OneDrive\Desktop\Virginio Gomez\Sistema Cafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\Virginio Gomez\Sistema Cafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\Virginio Gomez\Sistema Cafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\Virginio Gomez\Sistema Cafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\nicol\OneDrive\Desktop\Virginio Gomez\Sistema Cafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.pdb
